@@ -1,0 +1,2 @@
+{"ts": 1787656315.6534402, "iso": "2026-08-25T11:11:55", "action": "kill", "region": "a", "mode": "stop", "backend": "bare-windows", "mock": true, "other_region": "b", "other_alive": true, "forced_both": false, "note": "t_outage_start - Windows equivalent"}
+{"ts": 1787656422.1157448, "iso": "2026-08-25T11:13:42", "action": "kill", "region": "a", "mode": "stop", "backend": "bare-windows", "mock": true, "other_region": "b", "other_alive": true, "forced_both": false, "note": "t_outage_start - Windows equivalent"}
